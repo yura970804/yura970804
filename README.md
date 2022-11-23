@@ -7,7 +7,8 @@
   - 한양대학교(ERICA) 응용수학, 컴퓨터공학(다중) 전공  
   - 한양대학교 대학원 인공지능융합전공  
 
-[포트폴리오](https://github.com/yura970804/Profile/files/9945370/_.pdf)  
+[포트폴리오](https://github.com/yura970804/yura970804/files/10072864/_.pdf)
+
 
 <!--
 **yura970804/yura970804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
